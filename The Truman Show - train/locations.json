@@ -1,0 +1,5805 @@
+[
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-01T19:46:18",
+    "lat": 47.4692,
+    "lng": 6.8217,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-03T18:01:37",
+    "lat": 47.5007,
+    "lng": 6.8775,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-06T07:30:57",
+    "lat": 47.4782,
+    "lng": 6.8988,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-07T09:13:49",
+    "lat": 47.4971,
+    "lng": 6.8642,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-08T09:00:48",
+    "lat": 47.4531,
+    "lng": 6.8656,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-10T11:15:35",
+    "lat": 47.5267,
+    "lng": 6.8496,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-11T20:26:39",
+    "lat": 47.471,
+    "lng": 6.8084,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-12T23:18:58",
+    "lat": 47.5061,
+    "lng": 6.7898,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-14T18:38:02",
+    "lat": 47.4881,
+    "lng": 6.8828,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-15T18:19:07",
+    "lat": 47.4728,
+    "lng": 6.843,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-16T18:53:22",
+    "lat": 47.5168,
+    "lng": 6.7818,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-17T01:31:29",
+    "lat": 47.5061,
+    "lng": 6.7885,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-18T23:36:04",
+    "lat": 47.5186,
+    "lng": 6.9014,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-19T02:15:50",
+    "lat": 47.445,
+    "lng": 6.8589,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-20T02:23:29",
+    "lat": 47.5213,
+    "lng": 6.815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-22T01:10:23",
+    "lat": 47.5052,
+    "lng": 6.7845,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-23T14:59:59",
+    "lat": 47.515,
+    "lng": 6.8177,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-25T13:11:27",
+    "lat": 47.4935,
+    "lng": 6.7978,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-26T21:51:02",
+    "lat": 47.4567,
+    "lng": 6.8709,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-27T18:40:39",
+    "lat": 47.4935,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-28T08:09:29",
+    "lat": 47.5258,
+    "lng": 6.9041,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-29T21:28:54",
+    "lat": 47.4647,
+    "lng": 6.7738,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-01-31T21:16:08",
+    "lat": 47.4423,
+    "lng": 6.7805,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-01T13:37:40",
+    "lat": 47.5132,
+    "lng": 6.7924,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-02T04:26:03",
+    "lat": 47.4881,
+    "lng": 6.8882,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-03T02:37:00",
+    "lat": 47.5258,
+    "lng": 6.8695,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-04T12:24:57",
+    "lat": 47.4971,
+    "lng": 6.8788,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-05T18:07:11",
+    "lat": 47.4926,
+    "lng": 6.8629,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-09T12:03:51",
+    "lat": 47.4531,
+    "lng": 6.7752,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-10T19:54:03",
+    "lat": 47.4459,
+    "lng": 6.8509,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-11T02:01:03",
+    "lat": 47.498,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-13T19:21:20",
+    "lat": 47.4683,
+    "lng": 6.8363,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-14T12:04:16",
+    "lat": 47.4935,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-15T19:35:46",
+    "lat": 47.4611,
+    "lng": 6.8988,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-16T19:00:44",
+    "lat": 47.4692,
+    "lng": 6.7978,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-18T02:44:32",
+    "lat": 47.4944,
+    "lng": 6.8735,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-19T11:44:41",
+    "lat": 47.4764,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-20T14:24:42",
+    "lat": 47.5222,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-21T22:49:26",
+    "lat": 47.4522,
+    "lng": 6.8018,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-22T23:39:40",
+    "lat": 47.4764,
+    "lng": 6.815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-23T11:02:17",
+    "lat": 47.507,
+    "lng": 6.8749,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-24T10:49:40",
+    "lat": 47.4423,
+    "lng": 6.7885,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-25T05:26:53",
+    "lat": 47.5079,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-26T10:11:53",
+    "lat": 47.4827,
+    "lng": 6.8815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-27T08:02:41",
+    "lat": 47.4504,
+    "lng": 6.7738,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-02-28T14:49:04",
+    "lat": 47.4468,
+    "lng": 6.8164,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-01T03:21:19",
+    "lat": 47.4701,
+    "lng": 6.8855,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-02T14:53:30",
+    "lat": 47.4773,
+    "lng": 6.8842,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-03T07:19:24",
+    "lat": 47.4558,
+    "lng": 6.8656,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-04T09:27:24",
+    "lat": 47.4549,
+    "lng": 6.8749,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-06T23:22:43",
+    "lat": 47.5177,
+    "lng": 6.8616,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-07T13:37:08",
+    "lat": 47.4755,
+    "lng": 6.8642,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-08T05:56:15",
+    "lat": 47.4629,
+    "lng": 6.8297,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-09T05:05:29",
+    "lat": 47.4486,
+    "lng": 6.8376,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-11T20:04:05",
+    "lat": 47.5079,
+    "lng": 6.8815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-14T08:25:54",
+    "lat": 47.4593,
+    "lng": 6.7792,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-15T09:48:27",
+    "lat": 47.4719,
+    "lng": 6.8097,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-16T06:43:02",
+    "lat": 47.5007,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-17T16:25:50",
+    "lat": 47.5132,
+    "lng": 6.8004,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-18T00:22:47",
+    "lat": 47.4531,
+    "lng": 6.831,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-20T06:20:18",
+    "lat": 47.4809,
+    "lng": 6.8868,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-21T21:11:53",
+    "lat": 47.5061,
+    "lng": 6.8509,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-22T17:14:31",
+    "lat": 47.4782,
+    "lng": 6.9054,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-23T04:14:56",
+    "lat": 47.4495,
+    "lng": 6.7871,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-25T04:02:31",
+    "lat": 47.5195,
+    "lng": 6.7792,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-28T02:21:39",
+    "lat": 47.4998,
+    "lng": 6.8735,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-29T20:13:05",
+    "lat": 47.5276,
+    "lng": 6.8682,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-30T03:19:20",
+    "lat": 47.4396,
+    "lng": 6.8217,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-03-31T10:48:49",
+    "lat": 47.515,
+    "lng": 6.8735,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-01T02:40:09",
+    "lat": 47.4755,
+    "lng": 6.8084,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-02T05:01:58",
+    "lat": 47.4611,
+    "lng": 6.7978,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-04T17:31:44",
+    "lat": 47.4962,
+    "lng": 6.8589,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-05T02:24:28",
+    "lat": 47.4387,
+    "lng": 6.8722,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-06T06:57:40",
+    "lat": 47.4962,
+    "lng": 6.8057,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-07T17:04:56",
+    "lat": 47.4899,
+    "lng": 6.823,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-08T02:59:50",
+    "lat": 47.4468,
+    "lng": 6.9001,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-10T20:42:24",
+    "lat": 47.4531,
+    "lng": 6.7738,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-12T17:00:51",
+    "lat": 47.4845,
+    "lng": 6.9028,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-13T04:54:15",
+    "lat": 47.471,
+    "lng": 6.8403,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-14T12:57:43",
+    "lat": 47.462,
+    "lng": 6.8642,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-15T06:16:33",
+    "lat": 47.4998,
+    "lng": 6.8297,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-16T19:22:27",
+    "lat": 47.4432,
+    "lng": 6.9014,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-18T14:47:43",
+    "lat": 47.4549,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-19T22:20:50",
+    "lat": 47.524,
+    "lng": 6.7818,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-20T12:57:23",
+    "lat": 47.4962,
+    "lng": 6.8416,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-21T22:53:01",
+    "lat": 47.5213,
+    "lng": 6.8469,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-22T18:59:25",
+    "lat": 47.5159,
+    "lng": 6.8788,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-23T21:26:50",
+    "lat": 47.5213,
+    "lng": 6.8948,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-24T10:54:05",
+    "lat": 47.489,
+    "lng": 6.8071,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-25T06:14:10",
+    "lat": 47.5195,
+    "lng": 6.8137,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-27T16:13:32",
+    "lat": 47.4899,
+    "lng": 6.8868,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-28T11:11:07",
+    "lat": 47.4567,
+    "lng": 6.9014,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-29T06:32:24",
+    "lat": 47.4441,
+    "lng": 6.8111,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-04-30T07:30:45",
+    "lat": 47.5123,
+    "lng": 6.8935,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-01T02:05:11",
+    "lat": 47.4432,
+    "lng": 6.8828,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-02T23:29:24",
+    "lat": 47.4611,
+    "lng": 6.7845,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-04T02:32:10",
+    "lat": 47.4414,
+    "lng": 6.8204,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-06T21:42:33",
+    "lat": 47.4575,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-07T23:10:00",
+    "lat": 47.4719,
+    "lng": 6.843,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-08T18:03:44",
+    "lat": 47.4558,
+    "lng": 6.8018,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-10T15:27:36",
+    "lat": 47.4584,
+    "lng": 6.8523,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-11T05:19:24",
+    "lat": 47.4486,
+    "lng": 6.7752,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-14T00:04:55",
+    "lat": 47.507,
+    "lng": 6.8124,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-15T01:44:55",
+    "lat": 47.5204,
+    "lng": 6.8057,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-16T17:49:25",
+    "lat": 47.5105,
+    "lng": 6.8842,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-17T17:05:17",
+    "lat": 47.4998,
+    "lng": 6.8656,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-18T12:27:40",
+    "lat": 47.5168,
+    "lng": 6.8642,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-19T22:21:15",
+    "lat": 47.4396,
+    "lng": 6.7964,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-20T05:45:50",
+    "lat": 47.4773,
+    "lng": 6.8177,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-21T23:37:54",
+    "lat": 47.445,
+    "lng": 6.8842,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-22T21:11:13",
+    "lat": 47.4549,
+    "lng": 6.7858,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-23T21:13:52",
+    "lat": 47.4602,
+    "lng": 6.8802,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-24T15:33:28",
+    "lat": 47.5276,
+    "lng": 6.8682,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-26T02:26:51",
+    "lat": 54.63,
+    "lng": 39.7425,
+    "city": "Ryazan"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-27T12:37:21",
+    "lat": 54.6219,
+    "lng": 39.7254,
+    "city": "Ryazan"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-30T11:21:18",
+    "lat": 54.6659,
+    "lng": 39.7813,
+    "city": "Ryazan"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-05-31T20:15:40",
+    "lat": 54.5941,
+    "lng": 39.7751,
+    "city": "Ryazan"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-02T04:39:27",
+    "lat": 54.5914,
+    "lng": 39.803,
+    "city": "Ryazan"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-03T18:12:27",
+    "lat": 47.4791,
+    "lng": 6.8762,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-04T03:18:22",
+    "lat": 47.4701,
+    "lng": 6.8975,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-05T03:52:42",
+    "lat": 47.4737,
+    "lng": 6.831,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-07T16:01:24",
+    "lat": 47.4737,
+    "lng": 6.8709,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-08T08:16:35",
+    "lat": 47.4773,
+    "lng": 6.8137,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-09T04:20:32",
+    "lat": 47.4531,
+    "lng": 6.8921,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-10T22:11:48",
+    "lat": 47.4971,
+    "lng": 6.8018,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-11T22:06:24",
+    "lat": 47.445,
+    "lng": 6.819,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-12T04:42:40",
+    "lat": 47.4468,
+    "lng": 6.9028,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-13T11:44:28",
+    "lat": 47.5097,
+    "lng": 6.827,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-14T23:19:50",
+    "lat": 47.4989,
+    "lng": 6.8935,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-15T09:55:32",
+    "lat": 47.4459,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-17T12:55:25",
+    "lat": 47.5195,
+    "lng": 6.8004,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-19T22:55:04",
+    "lat": 47.445,
+    "lng": 6.8855,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-20T09:35:22",
+    "lat": 47.4926,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-21T16:32:18",
+    "lat": 47.4584,
+    "lng": 6.8257,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-22T15:33:25",
+    "lat": 47.5159,
+    "lng": 6.8775,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-23T14:21:19",
+    "lat": 47.4674,
+    "lng": 6.8722,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-24T14:35:12",
+    "lat": 47.4755,
+    "lng": 6.8164,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-25T05:27:08",
+    "lat": 47.4872,
+    "lng": 6.8071,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-27T13:25:58",
+    "lat": 47.4899,
+    "lng": 6.8283,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-29T12:33:50",
+    "lat": 47.4602,
+    "lng": 6.8735,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-06-30T17:59:13",
+    "lat": 47.4638,
+    "lng": 6.8097,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-01T01:33:11",
+    "lat": 47.4845,
+    "lng": 6.8164,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-02T06:47:39",
+    "lat": 47.4719,
+    "lng": 6.8403,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-04T13:53:17",
+    "lat": 47.4513,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-05T18:47:47",
+    "lat": 47.498,
+    "lng": 6.7845,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-07T05:24:47",
+    "lat": 47.4701,
+    "lng": 6.7752,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-08T12:39:32",
+    "lat": 47.4531,
+    "lng": 6.835,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-10T01:07:32",
+    "lat": 47.5159,
+    "lng": 6.8616,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-11T11:57:38",
+    "lat": 47.5052,
+    "lng": 6.7738,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-12T08:38:55",
+    "lat": 47.471,
+    "lng": 6.7924,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-13T00:52:07",
+    "lat": 47.5016,
+    "lng": 6.8656,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-14T17:48:35",
+    "lat": 47.5249,
+    "lng": 6.7858,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-16T07:16:25",
+    "lat": 47.4953,
+    "lng": 6.7938,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-18T10:30:00",
+    "lat": 47.4692,
+    "lng": 6.8509,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-19T13:03:49",
+    "lat": 47.5043,
+    "lng": 6.7885,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-20T09:20:16",
+    "lat": 47.4764,
+    "lng": 6.7818,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-21T13:39:07",
+    "lat": 47.5025,
+    "lng": 6.8762,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-22T13:53:42",
+    "lat": 47.4827,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-23T01:29:52",
+    "lat": 47.4917,
+    "lng": 6.8855,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-24T12:52:35",
+    "lat": 47.4701,
+    "lng": 6.8749,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-25T20:09:09",
+    "lat": 47.5141,
+    "lng": 6.8257,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-26T03:39:53",
+    "lat": 47.48,
+    "lng": 6.7924,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-27T17:51:01",
+    "lat": 47.4917,
+    "lng": 6.831,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-28T13:46:04",
+    "lat": 47.5114,
+    "lng": 6.8709,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-30T20:54:12",
+    "lat": 47.4387,
+    "lng": 6.7805,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-07-31T10:29:10",
+    "lat": 47.4773,
+    "lng": 6.8735,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-01T08:46:55",
+    "lat": 47.5061,
+    "lng": 6.8469,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-02T12:12:28",
+    "lat": 47.4638,
+    "lng": 6.7924,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-03T20:19:03",
+    "lat": 47.4962,
+    "lng": 6.8483,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-04T13:03:35",
+    "lat": 47.4405,
+    "lng": 6.8802,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-05T23:07:54",
+    "lat": 47.48,
+    "lng": 6.8004,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-06T22:01:11",
+    "lat": 47.4387,
+    "lng": 6.8682,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-08T18:51:25",
+    "lat": 47.4782,
+    "lng": 6.8975,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-09T22:46:36",
+    "lat": 47.5177,
+    "lng": 6.8629,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-10T08:16:13",
+    "lat": 47.5213,
+    "lng": 6.8456,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-11T22:09:22",
+    "lat": 47.4647,
+    "lng": 6.8443,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-12T09:33:03",
+    "lat": 47.5258,
+    "lng": 6.7845,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-13T03:10:33",
+    "lat": 47.4423,
+    "lng": 6.8656,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-14T09:54:25",
+    "lat": 47.4432,
+    "lng": 6.8137,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-16T01:05:42",
+    "lat": 47.4683,
+    "lng": 6.819,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-17T19:53:44",
+    "lat": 47.4908,
+    "lng": 6.8921,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-18T19:17:33",
+    "lat": 47.4953,
+    "lng": 6.8895,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-19T20:11:27",
+    "lat": 47.4441,
+    "lng": 6.8895,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-20T04:10:42",
+    "lat": 47.5177,
+    "lng": 6.7911,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-22T16:59:19",
+    "lat": 47.5186,
+    "lng": 6.7964,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-23T17:06:04",
+    "lat": 47.4593,
+    "lng": 6.8004,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-25T00:26:24",
+    "lat": 47.4908,
+    "lng": 6.8164,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-27T10:34:31",
+    "lat": 47.5007,
+    "lng": 6.8908,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-28T05:34:30",
+    "lat": 47.5186,
+    "lng": 6.835,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-29T07:07:05",
+    "lat": 47.4432,
+    "lng": 6.8629,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-08-31T04:23:28",
+    "lat": 47.445,
+    "lng": 6.8376,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-01T17:44:38",
+    "lat": 47.4692,
+    "lng": 6.8018,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-02T02:02:51",
+    "lat": 47.5213,
+    "lng": 6.8111,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-03T23:14:51",
+    "lat": 47.507,
+    "lng": 6.8523,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-04T03:04:17",
+    "lat": 47.4647,
+    "lng": 6.8629,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-05T20:53:33",
+    "lat": 47.4405,
+    "lng": 6.8124,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-06T09:46:13",
+    "lat": 47.498,
+    "lng": 6.831,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-07T04:43:35",
+    "lat": 47.4854,
+    "lng": 6.7765,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-09T12:28:30",
+    "lat": 47.4665,
+    "lng": 6.8469,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-10T07:12:07",
+    "lat": 47.5114,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-11T12:27:06",
+    "lat": 47.4935,
+    "lng": 6.8018,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-12T05:33:26",
+    "lat": 47.4917,
+    "lng": 6.8111,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-14T16:06:13",
+    "lat": 47.5097,
+    "lng": 6.7858,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-16T21:02:33",
+    "lat": 47.4575,
+    "lng": 6.9001,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-17T15:44:18",
+    "lat": 47.5007,
+    "lng": 6.8948,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-18T23:17:08",
+    "lat": 47.515,
+    "lng": 6.8775,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-19T15:13:09",
+    "lat": 47.5097,
+    "lng": 6.8536,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-20T05:23:34",
+    "lat": 47.4656,
+    "lng": 6.8868,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-21T11:03:15",
+    "lat": 47.4522,
+    "lng": 6.8111,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-22T07:25:10",
+    "lat": 47.5052,
+    "lng": 6.8988,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-23T09:20:20",
+    "lat": 47.5195,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-24T00:46:33",
+    "lat": 47.445,
+    "lng": 6.8044,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-25T14:53:08",
+    "lat": 47.515,
+    "lng": 6.8456,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-26T12:23:49",
+    "lat": 47.454,
+    "lng": 6.8376,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-27T08:57:48",
+    "lat": 47.5088,
+    "lng": 6.8243,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-28T09:55:02",
+    "lat": 47.4602,
+    "lng": 6.8204,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-29T06:02:12",
+    "lat": 47.4441,
+    "lng": 6.8749,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-09-30T20:10:35",
+    "lat": 47.5007,
+    "lng": 6.815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-01T15:23:19",
+    "lat": 47.4827,
+    "lng": 6.8815,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-02T05:27:51",
+    "lat": 47.4989,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-03T22:16:59",
+    "lat": 47.5177,
+    "lng": 6.7991,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-04T04:40:35",
+    "lat": 47.4558,
+    "lng": 6.827,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-05T01:49:52",
+    "lat": 47.4935,
+    "lng": 6.7978,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-07T14:11:20",
+    "lat": 47.4575,
+    "lng": 6.7858,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-08T03:47:33",
+    "lat": 47.4917,
+    "lng": 6.819,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-09T15:56:47",
+    "lat": 47.48,
+    "lng": 6.7778,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-10T03:46:41",
+    "lat": 47.4414,
+    "lng": 6.8496,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-11T09:00:49",
+    "lat": 47.4809,
+    "lng": 6.8855,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-13T02:57:02",
+    "lat": 47.48,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-14T13:26:02",
+    "lat": 47.4423,
+    "lng": 6.819,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-15T00:15:16",
+    "lat": 47.4737,
+    "lng": 6.8124,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-17T20:11:55",
+    "lat": 47.4656,
+    "lng": 6.8642,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-18T15:46:43",
+    "lat": 47.5114,
+    "lng": 6.9001,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-19T06:06:20",
+    "lat": 47.5168,
+    "lng": 6.8762,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-20T06:26:53",
+    "lat": 47.5034,
+    "lng": 6.7911,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-22T01:49:29",
+    "lat": 47.4845,
+    "lng": 6.9028,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-23T09:04:03",
+    "lat": 47.4926,
+    "lng": 6.7752,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-24T02:47:19",
+    "lat": 47.4602,
+    "lng": 6.8111,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-26T22:15:24",
+    "lat": 47.5132,
+    "lng": 6.8975,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-27T01:39:20",
+    "lat": 47.48,
+    "lng": 6.8257,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-10-30T22:51:58",
+    "lat": 47.5123,
+    "lng": 6.7858,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-01T02:36:21",
+    "lat": 47.4396,
+    "lng": 6.8257,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-02T12:51:16",
+    "lat": 47.4423,
+    "lng": 6.819,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-03T23:10:16",
+    "lat": 47.5195,
+    "lng": 6.8164,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-04T14:46:52",
+    "lat": 47.4549,
+    "lng": 6.8828,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-05T18:18:18",
+    "lat": 47.4944,
+    "lng": 6.8855,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-07T15:15:07",
+    "lat": 47.4423,
+    "lng": 6.8044,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-08T15:09:33",
+    "lat": 47.4908,
+    "lng": 6.8323,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-09T00:46:43",
+    "lat": 47.4701,
+    "lng": 6.8975,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-11T00:04:27",
+    "lat": 47.5204,
+    "lng": 6.8456,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-14T23:37:58",
+    "lat": 47.4611,
+    "lng": 6.8177,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-15T06:37:58",
+    "lat": 47.5276,
+    "lng": 6.7845,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-16T17:46:28",
+    "lat": 47.4701,
+    "lng": 6.9001,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-17T10:02:21",
+    "lat": 47.4746,
+    "lng": 6.7778,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-18T00:54:06",
+    "lat": 47.4656,
+    "lng": 6.8376,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-19T04:33:17",
+    "lat": 47.515,
+    "lng": 6.7778,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-20T02:31:04",
+    "lat": 47.5043,
+    "lng": 6.7871,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-21T08:22:40",
+    "lat": 47.524,
+    "lng": 6.9041,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-22T14:29:25",
+    "lat": 47.5097,
+    "lng": 6.8097,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-24T15:27:14",
+    "lat": 47.4971,
+    "lng": 6.9041,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-25T15:56:48",
+    "lat": 47.5177,
+    "lng": 6.8124,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-26T01:01:32",
+    "lat": 47.489,
+    "lng": 6.8363,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-27T02:42:10",
+    "lat": 47.5052,
+    "lng": 6.7752,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-29T01:15:36",
+    "lat": 47.445,
+    "lng": 6.8549,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-11-30T19:23:43",
+    "lat": 47.445,
+    "lng": 6.7951,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-02T15:32:39",
+    "lat": 47.5007,
+    "lng": 6.7938,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-04T06:23:49",
+    "lat": 47.462,
+    "lng": 6.8004,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-05T09:49:03",
+    "lat": 47.4917,
+    "lng": 6.8669,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-06T04:33:07",
+    "lat": 47.4746,
+    "lng": 6.7778,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-07T16:22:27",
+    "lat": 47.515,
+    "lng": 6.8137,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-08T03:54:13",
+    "lat": 47.4953,
+    "lng": 6.8337,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-13T02:47:35",
+    "lat": 47.48,
+    "lng": 6.7778,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-15T22:14:40",
+    "lat": 47.4477,
+    "lng": 6.8097,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-18T02:54:48",
+    "lat": 47.4737,
+    "lng": 6.8975,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-19T23:45:52",
+    "lat": 47.4495,
+    "lng": 6.7978,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-20T10:31:19",
+    "lat": 47.4575,
+    "lng": 6.8509,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-21T17:47:43",
+    "lat": 47.507,
+    "lng": 6.8576,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-22T17:15:31",
+    "lat": 47.4827,
+    "lng": 6.7765,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-23T14:03:44",
+    "lat": 47.4522,
+    "lng": 6.8057,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-24T03:52:00",
+    "lat": 47.4531,
+    "lng": 6.7871,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-25T04:35:22",
+    "lat": 47.489,
+    "lng": 6.8137,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-26T20:49:29",
+    "lat": 47.5097,
+    "lng": 6.7738,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-27T04:03:30",
+    "lat": 47.4665,
+    "lng": 6.8616,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-28T04:06:05",
+    "lat": 47.5097,
+    "lng": 6.8297,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-29T14:46:01",
+    "lat": 47.4944,
+    "lng": 6.8177,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "RGNR-LNAA-7FF-AUD-0",
+    "timestamp": "2087-12-31T11:38:43",
+    "lat": 47.4387,
+    "lng": 6.8948,
+    "city": "Audincourt"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-01T13:20:08",
+    "lat": 50.0338,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-02T11:17:20",
+    "lat": 50.0104,
+    "lng": 8.7176,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-03T15:28:00",
+    "lat": 50.0041,
+    "lng": 8.8099,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-05T01:19:59",
+    "lat": 50.0077,
+    "lng": 8.8392,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-06T08:21:13",
+    "lat": 50.0338,
+    "lng": 8.7833,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-07T21:00:51",
+    "lat": 49.988,
+    "lng": 8.7204,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-08T21:09:56",
+    "lat": 49.9889,
+    "lng": 8.7917,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-09T18:58:48",
+    "lat": 50.0311,
+    "lng": 8.7581,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-10T18:05:17",
+    "lat": 50.0517,
+    "lng": 8.828,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-11T12:36:01",
+    "lat": 50.0454,
+    "lng": 8.8364,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-12T03:21:27",
+    "lat": 50.0212,
+    "lng": 8.74,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-13T18:30:21",
+    "lat": 50.0194,
+    "lng": 8.7805,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-14T14:18:53",
+    "lat": 50.0023,
+    "lng": 8.7819,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-15T02:33:27",
+    "lat": 50.032,
+    "lng": 8.7358,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-17T14:24:29",
+    "lat": 50.0104,
+    "lng": 8.8099,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-18T18:52:38",
+    "lat": 11.4519,
+    "lng": 76.8061,
+    "city": "Kaguchi"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-19T06:08:52",
+    "lat": 11.4932,
+    "lng": 76.7685,
+    "city": "Kaguchi"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-20T00:39:24",
+    "lat": 11.4896,
+    "lng": 76.7969,
+    "city": "Kaguchi"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-22T16:45:02",
+    "lat": 11.4303,
+    "lng": 76.7658,
+    "city": "Kaguchi"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-23T04:46:46",
+    "lat": 11.4169,
+    "lng": 76.7814,
+    "city": "Kaguchi"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-24T14:31:47",
+    "lat": 50.0454,
+    "lng": 8.7973,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-25T04:03:14",
+    "lat": 50.0302,
+    "lng": 8.7791,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-26T00:26:27",
+    "lat": 50.0131,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-28T20:27:48",
+    "lat": 50.0275,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-01-31T14:05:33",
+    "lat": 50.0059,
+    "lng": 8.7777,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-01T21:33:38",
+    "lat": 49.9978,
+    "lng": 8.8141,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-02T20:08:05",
+    "lat": 50.0589,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-03T05:35:56",
+    "lat": 50.0589,
+    "lng": 8.7372,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-04T19:32:24",
+    "lat": 49.9862,
+    "lng": 8.7679,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-05T17:48:04",
+    "lat": 49.9781,
+    "lng": 8.7861,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-06T17:05:58",
+    "lat": 50.0544,
+    "lng": 8.8504,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-08T17:01:48",
+    "lat": 49.979,
+    "lng": 8.7218,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-09T07:43:47",
+    "lat": 50.0499,
+    "lng": 8.7875,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-10T00:13:12",
+    "lat": 50.0436,
+    "lng": 8.7679,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-11T01:51:06",
+    "lat": 49.9987,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-14T20:57:23",
+    "lat": 50.0257,
+    "lng": 8.7525,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-16T01:31:30",
+    "lat": 50.0041,
+    "lng": 8.8336,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-17T10:18:50",
+    "lat": 50.0392,
+    "lng": 8.7344,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-18T23:42:42",
+    "lat": 50.0275,
+    "lng": 8.7945,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-19T15:32:13",
+    "lat": 50.0221,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-20T08:49:38",
+    "lat": 50.0032,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-22T22:28:42",
+    "lat": 49.9915,
+    "lng": 8.7833,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-23T21:40:39",
+    "lat": 49.9942,
+    "lng": 8.8085,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-24T03:41:11",
+    "lat": 49.988,
+    "lng": 8.8043,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-27T02:25:17",
+    "lat": 50.0095,
+    "lng": 8.8057,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-02-28T21:16:41",
+    "lat": 49.9906,
+    "lng": 8.8001,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-01T12:18:26",
+    "lat": 50.0086,
+    "lng": 8.8336,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-02T16:34:59",
+    "lat": 49.9799,
+    "lng": 8.8155,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-04T01:52:33",
+    "lat": 50.0544,
+    "lng": 8.7525,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-05T05:08:06",
+    "lat": 50.0293,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-06T10:28:23",
+    "lat": 49.9718,
+    "lng": 8.7302,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-07T17:53:13",
+    "lat": 50.014,
+    "lng": 8.7679,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-09T20:31:40",
+    "lat": 49.9862,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-11T23:41:47",
+    "lat": 49.9871,
+    "lng": 8.733,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-14T21:50:59",
+    "lat": 50.041,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-15T01:20:01",
+    "lat": 50.0481,
+    "lng": 8.8224,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-16T10:33:59",
+    "lat": 50.0104,
+    "lng": 8.8504,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-18T09:35:48",
+    "lat": 49.9933,
+    "lng": 8.7651,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-19T19:56:03",
+    "lat": 49.9969,
+    "lng": 8.7162,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-20T11:04:45",
+    "lat": 50.0104,
+    "lng": 8.7903,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-24T15:51:12",
+    "lat": 50.0454,
+    "lng": 8.74,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-25T06:04:18",
+    "lat": 50.0481,
+    "lng": 8.7316,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-26T03:43:19",
+    "lat": 50.0239,
+    "lng": 8.7777,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-27T00:11:26",
+    "lat": 49.988,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-03-30T14:52:11",
+    "lat": 49.9924,
+    "lng": 8.7218,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-01T15:31:52",
+    "lat": 50.0104,
+    "lng": 8.7889,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-02T03:30:01",
+    "lat": 49.9835,
+    "lng": 8.7623,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-03T11:04:23",
+    "lat": 50.0454,
+    "lng": 8.8183,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-06T09:22:26",
+    "lat": 50.0041,
+    "lng": 8.7861,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-08T18:00:29",
+    "lat": 50.0176,
+    "lng": 8.7162,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-09T08:46:17",
+    "lat": 50.0149,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-10T08:17:20",
+    "lat": 50.0176,
+    "lng": 8.8252,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-11T22:21:40",
+    "lat": 50.0122,
+    "lng": 8.8099,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-12T00:25:18",
+    "lat": 50.0445,
+    "lng": 8.7651,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-13T14:37:45",
+    "lat": 49.9933,
+    "lng": 8.8015,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-14T23:33:50",
+    "lat": 50.0598,
+    "lng": 8.821,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-19T01:41:03",
+    "lat": 24.8574,
+    "lng": 85.8794,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-20T01:08:59",
+    "lat": 24.8753,
+    "lng": 85.8774,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-22T07:33:52",
+    "lat": 24.8026,
+    "lng": 85.8745,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-23T19:35:31",
+    "lat": 24.834,
+    "lng": 85.8953,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-24T11:01:04",
+    "lat": 24.808,
+    "lng": 85.92,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-25T16:35:43",
+    "lat": 24.8232,
+    "lng": 85.9062,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-26T11:29:11",
+    "lat": 24.8304,
+    "lng": 85.8953,
+    "city": "Sokhodewara"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-27T03:45:47",
+    "lat": 49.9906,
+    "lng": 8.7358,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-28T12:36:21",
+    "lat": 50.0284,
+    "lng": 8.74,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-29T13:18:37",
+    "lat": 50.0122,
+    "lng": 8.7595,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-04-30T21:55:58",
+    "lat": 49.9978,
+    "lng": 8.7987,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-01T06:32:56",
+    "lat": 50.0356,
+    "lng": 8.7637,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-02T07:49:14",
+    "lat": 50.023,
+    "lng": 8.7945,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-05T10:59:43",
+    "lat": 50.0302,
+    "lng": 8.7819,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-07T06:10:20",
+    "lat": 50.049,
+    "lng": 8.8322,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-09T21:00:09",
+    "lat": 50.0293,
+    "lng": 8.7456,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-10T03:16:37",
+    "lat": 50.0589,
+    "lng": 8.8392,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-12T13:46:00",
+    "lat": 50.0571,
+    "lng": 8.8406,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-13T06:55:26",
+    "lat": 49.9817,
+    "lng": 8.7302,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-14T06:54:54",
+    "lat": 49.9754,
+    "lng": 8.7246,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-15T12:19:04",
+    "lat": 50.0086,
+    "lng": 8.7595,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-16T10:35:15",
+    "lat": 50.0544,
+    "lng": 8.835,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-17T21:02:44",
+    "lat": 49.9745,
+    "lng": 8.7176,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-18T15:44:48",
+    "lat": 50.0158,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-19T16:15:46",
+    "lat": 50.0176,
+    "lng": 8.835,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-21T02:31:16",
+    "lat": 50.0607,
+    "lng": 8.7595,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-22T18:06:59",
+    "lat": 50.0293,
+    "lng": 8.7917,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-23T15:20:45",
+    "lat": 50.0059,
+    "lng": 8.7777,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-24T19:38:59",
+    "lat": 50.0365,
+    "lng": 8.7889,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-25T21:35:19",
+    "lat": 50.0014,
+    "lng": 8.7483,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-28T16:07:13",
+    "lat": 50.0248,
+    "lng": 8.7539,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-30T14:58:14",
+    "lat": 49.9763,
+    "lng": 8.7623,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-05-31T04:23:08",
+    "lat": 50.0212,
+    "lng": 8.8155,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-02T07:54:41",
+    "lat": 49.9906,
+    "lng": 8.8169,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-03T22:33:25",
+    "lat": 50.0472,
+    "lng": 8.8504,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-04T13:26:36",
+    "lat": 49.9745,
+    "lng": 8.7428,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-05T06:43:13",
+    "lat": 50.0392,
+    "lng": 8.7931,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-07T08:59:10",
+    "lat": 49.9772,
+    "lng": 8.8099,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-08T12:54:33",
+    "lat": 50.014,
+    "lng": 8.7945,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-09T00:47:31",
+    "lat": 50.0517,
+    "lng": 8.8029,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-11T18:29:51",
+    "lat": 50.0562,
+    "lng": 8.8308,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-12T03:39:39",
+    "lat": 50.014,
+    "lng": 8.7777,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-13T19:20:14",
+    "lat": 50.0149,
+    "lng": 8.7735,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-15T22:33:29",
+    "lat": 22.1429,
+    "lng": 88.4473,
+    "city": "Jaynagar-Majilpur"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-17T15:23:20",
+    "lat": 22.1357,
+    "lng": 88.4288,
+    "city": "Jaynagar-Majilpur"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-18T20:43:26",
+    "lat": 22.1339,
+    "lng": 88.4676,
+    "city": "Jaynagar-Majilpur"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-19T05:36:28",
+    "lat": 22.1348,
+    "lng": 88.4482,
+    "city": "Jaynagar-Majilpur"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-20T10:11:41",
+    "lat": 22.1456,
+    "lng": 88.3861,
+    "city": "Jaynagar-Majilpur"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-21T17:22:48",
+    "lat": 49.9969,
+    "lng": 8.7428,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-22T03:07:29",
+    "lat": 49.9898,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-23T14:28:26",
+    "lat": 50.0419,
+    "lng": 8.7777,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-24T05:52:10",
+    "lat": 50.014,
+    "lng": 8.8141,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-25T05:56:51",
+    "lat": 49.9889,
+    "lng": 8.747,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-26T10:12:08",
+    "lat": 50.005,
+    "lng": 8.7609,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-28T16:28:33",
+    "lat": 50.0374,
+    "lng": 8.8518,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-29T04:29:57",
+    "lat": 50.0077,
+    "lng": 8.8071,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-06-30T07:24:57",
+    "lat": 49.9915,
+    "lng": 8.7679,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-01T01:03:27",
+    "lat": 49.9951,
+    "lng": 8.8336,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-03T10:08:16",
+    "lat": 50.0275,
+    "lng": 8.8015,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-04T23:41:15",
+    "lat": 49.9987,
+    "lng": 8.7861,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-05T07:37:50",
+    "lat": 49.9745,
+    "lng": 8.8043,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-06T06:01:07",
+    "lat": 50.0329,
+    "lng": 8.7609,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-07T12:09:52",
+    "lat": 50.0176,
+    "lng": 8.7721,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-08T12:33:16",
+    "lat": 50.0005,
+    "lng": 8.8141,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-09T01:24:02",
+    "lat": 50.0445,
+    "lng": 8.8294,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-12T13:29:11",
+    "lat": 50.0436,
+    "lng": 8.7959,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-13T00:06:57",
+    "lat": 49.9763,
+    "lng": 8.7176,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-14T10:40:39",
+    "lat": 50.0122,
+    "lng": 8.8462,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-16T00:27:02",
+    "lat": 50.0014,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-17T00:25:26",
+    "lat": 50.0463,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-18T11:05:05",
+    "lat": 50.0392,
+    "lng": 8.7903,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-20T23:51:24",
+    "lat": 50.058,
+    "lng": 8.8448,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-24T05:36:16",
+    "lat": 49.9933,
+    "lng": 8.7819,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-25T17:48:10",
+    "lat": 50.0176,
+    "lng": 8.7763,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-26T20:52:35",
+    "lat": 49.9799,
+    "lng": 8.7819,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-27T21:39:12",
+    "lat": 50.0445,
+    "lng": 8.7148,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-28T15:13:12",
+    "lat": 49.9951,
+    "lng": 8.747,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-07-29T05:43:01",
+    "lat": 49.9853,
+    "lng": 8.7567,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-01T13:28:08",
+    "lat": 50.041,
+    "lng": 8.835,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-02T19:10:33",
+    "lat": 49.9996,
+    "lng": 8.8196,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-04T22:49:14",
+    "lat": 50.0571,
+    "lng": 8.7623,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-05T06:08:39",
+    "lat": 50.023,
+    "lng": 8.7148,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-06T13:13:41",
+    "lat": 50.0499,
+    "lng": 8.7637,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-07T00:36:18",
+    "lat": 49.9727,
+    "lng": 8.849,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-08T20:04:57",
+    "lat": 50.0266,
+    "lng": 8.7567,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-09T08:03:53",
+    "lat": 50.0347,
+    "lng": 8.733,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-10T21:53:45",
+    "lat": 49.9933,
+    "lng": 8.8224,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-11T09:54:20",
+    "lat": 50.0248,
+    "lng": 8.8378,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-12T09:04:05",
+    "lat": 50.0347,
+    "lng": 8.8043,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-13T05:50:54",
+    "lat": 50.0463,
+    "lng": 8.7861,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-15T05:16:08",
+    "lat": 50.0526,
+    "lng": 8.8294,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-16T17:30:34",
+    "lat": 49.9763,
+    "lng": 8.7763,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-20T15:18:48",
+    "lat": 50.0293,
+    "lng": 8.7861,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-21T03:30:12",
+    "lat": 49.9915,
+    "lng": 8.7344,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-22T13:59:12",
+    "lat": 50.0086,
+    "lng": 8.7525,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-24T13:13:16",
+    "lat": 50.032,
+    "lng": 8.8378,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-25T17:11:51",
+    "lat": 50.0499,
+    "lng": 8.7833,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-26T11:36:24",
+    "lat": 50.0302,
+    "lng": 8.7833,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-27T19:49:59",
+    "lat": 50.0122,
+    "lng": 8.7945,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-29T08:20:53",
+    "lat": 50.0212,
+    "lng": 8.8448,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-08-31T17:28:15",
+    "lat": 25.8455,
+    "lng": 85.0284,
+    "city": "Manrar"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-01T16:20:20",
+    "lat": 25.8446,
+    "lng": 85.0733,
+    "city": "Manrar"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-02T00:15:13",
+    "lat": 25.929,
+    "lng": 85.0353,
+    "city": "Manrar"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-03T17:24:24",
+    "lat": 25.9147,
+    "lng": 85.0533,
+    "city": "Manrar"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-05T13:39:45",
+    "lat": 25.8617,
+    "lng": 85.0773,
+    "city": "Manrar"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-06T15:04:10",
+    "lat": 50.0383,
+    "lng": 8.842,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-07T09:43:28",
+    "lat": 49.9781,
+    "lng": 8.8099,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-08T06:30:04",
+    "lat": 50.0176,
+    "lng": 8.8043,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-10T19:50:03",
+    "lat": 50.0239,
+    "lng": 8.7386,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-11T18:30:37",
+    "lat": 49.9781,
+    "lng": 8.7316,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-12T03:24:23",
+    "lat": 49.979,
+    "lng": 8.8015,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-14T05:16:32",
+    "lat": 50.0041,
+    "lng": 8.8224,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-16T07:42:58",
+    "lat": 50.0589,
+    "lng": 8.8392,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-17T12:53:50",
+    "lat": 50.0374,
+    "lng": 8.7414,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-19T18:57:12",
+    "lat": 50.0499,
+    "lng": 8.7372,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-20T03:27:17",
+    "lat": 50.0302,
+    "lng": 8.8378,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-21T09:31:39",
+    "lat": 49.9862,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-22T10:57:46",
+    "lat": 50.0374,
+    "lng": 8.7875,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-23T23:23:52",
+    "lat": 50.041,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-24T09:34:07",
+    "lat": 50.0526,
+    "lng": 8.7651,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-26T17:10:08",
+    "lat": 50.0499,
+    "lng": 8.7414,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-27T00:08:36",
+    "lat": 50.0401,
+    "lng": 8.7665,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-28T15:23:10",
+    "lat": 50.0302,
+    "lng": 8.7875,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-29T07:16:51",
+    "lat": 49.9871,
+    "lng": 8.8127,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-09-30T01:21:50",
+    "lat": 50.0059,
+    "lng": 8.7302,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-01T02:50:47",
+    "lat": 50.0311,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-02T20:12:50",
+    "lat": 49.9745,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-03T09:29:19",
+    "lat": 49.9978,
+    "lng": 8.7483,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-04T23:26:02",
+    "lat": 50.0095,
+    "lng": 8.7428,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-06T04:28:20",
+    "lat": 50.0077,
+    "lng": 8.8434,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-07T04:45:48",
+    "lat": 50.0454,
+    "lng": 8.719,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-08T04:01:02",
+    "lat": 50.023,
+    "lng": 8.8043,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-10T19:13:52",
+    "lat": 50.0086,
+    "lng": 8.7525,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-12T06:50:39",
+    "lat": 50.0032,
+    "lng": 8.7316,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-15T22:58:41",
+    "lat": 49.9808,
+    "lng": 8.8308,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-17T12:09:57",
+    "lat": 49.9924,
+    "lng": 8.7302,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-18T13:18:07",
+    "lat": 50.0149,
+    "lng": 8.7875,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-19T18:12:15",
+    "lat": 50.0113,
+    "lng": 8.7442,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-22T03:33:01",
+    "lat": 50.0347,
+    "lng": 8.7344,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-23T18:08:38",
+    "lat": 49.9817,
+    "lng": 8.7539,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-25T06:18:45",
+    "lat": 50.005,
+    "lng": 8.7763,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-27T09:07:45",
+    "lat": 50.0374,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-28T19:44:19",
+    "lat": 50.0356,
+    "lng": 8.7372,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-29T00:20:58",
+    "lat": 49.988,
+    "lng": 8.8434,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-30T15:08:04",
+    "lat": 49.9745,
+    "lng": 8.7414,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-10-31T22:52:18",
+    "lat": 50.0562,
+    "lng": 8.7511,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-03T06:31:09",
+    "lat": 50.0212,
+    "lng": 8.8308,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-05T07:59:48",
+    "lat": 49.9763,
+    "lng": 8.7931,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-08T19:38:44",
+    "lat": 50.0284,
+    "lng": 8.8085,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-09T00:20:02",
+    "lat": 50.0068,
+    "lng": 8.8434,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-10T14:54:48",
+    "lat": 50.058,
+    "lng": 8.7917,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-12T13:18:39",
+    "lat": 49.9736,
+    "lng": 8.7707,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-13T18:39:34",
+    "lat": 50.0463,
+    "lng": 8.7623,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-14T05:36:05",
+    "lat": 49.9969,
+    "lng": 8.747,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-15T10:53:08",
+    "lat": 50.041,
+    "lng": 8.7693,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-16T01:05:32",
+    "lat": 50.0194,
+    "lng": 8.8406,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-17T01:24:36",
+    "lat": 50.0517,
+    "lng": 8.7274,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-18T05:04:17",
+    "lat": 50.0553,
+    "lng": 8.7414,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-19T09:11:07",
+    "lat": 50.049,
+    "lng": 8.7386,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-20T04:59:14",
+    "lat": 50.0607,
+    "lng": 8.7749,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-21T23:32:08",
+    "lat": 50.0347,
+    "lng": 8.7749,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-22T06:31:33",
+    "lat": 50.0472,
+    "lng": 8.8001,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-24T09:34:11",
+    "lat": 49.9736,
+    "lng": 8.7456,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-25T13:44:14",
+    "lat": 49.9736,
+    "lng": 8.7735,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-26T16:45:40",
+    "lat": 50.0401,
+    "lng": 8.7134,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-27T12:05:40",
+    "lat": 50.0293,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-11-28T01:11:25",
+    "lat": 49.9853,
+    "lng": 8.7246,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-03T00:43:26",
+    "lat": 50.049,
+    "lng": 8.8001,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-04T18:02:36",
+    "lat": 50.0293,
+    "lng": 8.7553,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-05T15:20:24",
+    "lat": 49.9862,
+    "lng": 8.7567,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-06T03:54:48",
+    "lat": 50.0526,
+    "lng": 8.8001,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-07T07:44:05",
+    "lat": 50.0239,
+    "lng": 8.7973,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-08T22:53:44",
+    "lat": 50.0445,
+    "lng": 8.7483,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-12T07:57:35",
+    "lat": 50.0041,
+    "lng": 8.726,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-13T12:46:35",
+    "lat": 50.0571,
+    "lng": 8.7819,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-14T00:34:41",
+    "lat": 50.0436,
+    "lng": 8.7651,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-15T00:05:40",
+    "lat": 50.0329,
+    "lng": 8.8294,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-16T03:24:13",
+    "lat": 50.0607,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-17T03:01:20",
+    "lat": 50.8339,
+    "lng": 5.9814,
+    "city": "Simpelveld"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-18T17:56:31",
+    "lat": 50.7998,
+    "lng": 6.0155,
+    "city": "Simpelveld"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-19T04:49:35",
+    "lat": 50.8249,
+    "lng": 5.9643,
+    "city": "Simpelveld"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-21T21:39:35",
+    "lat": 50.7989,
+    "lng": 5.9928,
+    "city": "Simpelveld"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-22T00:36:50",
+    "lat": 50.8438,
+    "lng": 5.9288,
+    "city": "Simpelveld"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-23T19:51:27",
+    "lat": 49.9862,
+    "lng": 8.8336,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-24T17:36:07",
+    "lat": 50.0607,
+    "lng": 8.7847,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-25T22:39:28",
+    "lat": 50.0419,
+    "lng": 8.7959,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-26T07:59:59",
+    "lat": 50.0131,
+    "lng": 8.7316,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-28T22:19:20",
+    "lat": 50.0248,
+    "lng": 8.8364,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-29T13:52:58",
+    "lat": 49.9817,
+    "lng": 8.7288,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "GRSC-KRLH-807-DIE-1",
+    "timestamp": "2087-12-30T19:45:09",
+    "lat": 50.0338,
+    "lng": 8.849,
+    "city": "Dietzenbach"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-01T08:25:39",
+    "lat": 51.59,
+    "lng": -0.2206,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-03T08:40:54",
+    "lat": 51.5496,
+    "lng": -0.1527,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-05T07:02:55",
+    "lat": 51.5101,
+    "lng": -0.2365,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-06T08:48:25",
+    "lat": 51.5963,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-07T09:44:18",
+    "lat": 51.5927,
+    "lng": -0.1715,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-08T16:25:26",
+    "lat": 51.5828,
+    "lng": -0.199,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-09T11:55:59",
+    "lat": 51.5469,
+    "lng": -0.1065,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-11T07:09:29",
+    "lat": 51.5793,
+    "lng": -0.2336,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-12T14:59:40",
+    "lat": 51.5721,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-13T03:39:10",
+    "lat": 51.5595,
+    "lng": -0.1339,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-14T00:23:33",
+    "lat": 51.5775,
+    "lng": -0.2293,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-15T17:48:07",
+    "lat": 51.5496,
+    "lng": -0.1556,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-19T18:26:06",
+    "lat": 51.5209,
+    "lng": -0.1065,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-20T14:31:51",
+    "lat": 51.5325,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-22T13:43:24",
+    "lat": 51.5433,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-23T15:50:09",
+    "lat": 51.5837,
+    "lng": -0.1657,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-24T22:26:11",
+    "lat": 51.511,
+    "lng": -0.2019,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-26T09:30:58",
+    "lat": 51.5137,
+    "lng": -0.1065,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-27T17:57:20",
+    "lat": 51.5622,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-28T15:19:42",
+    "lat": 51.5155,
+    "lng": -0.1209,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-29T16:55:05",
+    "lat": 51.5712,
+    "lng": -0.2423,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-01-31T07:58:18",
+    "lat": 51.5263,
+    "lng": -0.186,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-01T14:26:14",
+    "lat": 51.5469,
+    "lng": -0.1051,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-02T11:44:15",
+    "lat": 51.537,
+    "lng": -0.2177,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-03T20:11:39",
+    "lat": 51.5173,
+    "lng": -0.1787,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-04T08:58:51",
+    "lat": 51.5263,
+    "lng": -0.2134,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-05T11:40:06",
+    "lat": 51.5568,
+    "lng": -0.1585,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-06T19:15:18",
+    "lat": 51.5577,
+    "lng": -0.2322,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-07T04:56:09",
+    "lat": 51.5487,
+    "lng": -0.2307,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-08T23:32:19",
+    "lat": 51.5703,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-09T15:45:13",
+    "lat": 51.5137,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-10T22:02:48",
+    "lat": 51.5424,
+    "lng": -0.1282,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-11T21:35:45",
+    "lat": 51.5819,
+    "lng": -0.1441,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-12T06:44:55",
+    "lat": 51.5209,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-13T05:53:55",
+    "lat": 51.5406,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-14T12:10:38",
+    "lat": 51.5164,
+    "lng": -0.1961,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-15T05:01:57",
+    "lat": 51.5361,
+    "lng": -0.1686,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-16T07:32:33",
+    "lat": 51.5541,
+    "lng": -0.1051,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-17T11:01:06",
+    "lat": 51.537,
+    "lng": -0.2409,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-18T13:48:51",
+    "lat": 51.5442,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-19T04:20:58",
+    "lat": 51.5775,
+    "lng": -0.1108,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-21T08:02:18",
+    "lat": 51.5541,
+    "lng": -0.225,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-22T14:46:43",
+    "lat": 51.5676,
+    "lng": -0.1484,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-23T23:57:06",
+    "lat": 51.5352,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-24T15:16:51",
+    "lat": 51.5954,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-26T12:40:33",
+    "lat": 51.5828,
+    "lng": -0.1614,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-27T11:49:30",
+    "lat": 51.5748,
+    "lng": -0.1715,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-02-28T11:04:19",
+    "lat": 51.5182,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-02T09:06:09",
+    "lat": 51.5307,
+    "lng": -0.1975,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-03T10:31:54",
+    "lat": 51.5882,
+    "lng": -0.2466,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-04T21:59:01",
+    "lat": 51.5316,
+    "lng": -0.1643,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-05T04:53:35",
+    "lat": 51.5289,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-06T18:50:11",
+    "lat": 51.5406,
+    "lng": -0.1094,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-07T04:08:14",
+    "lat": 51.5101,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-08T20:34:21",
+    "lat": 51.528,
+    "lng": -0.1932,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-10T08:49:17",
+    "lat": 51.5873,
+    "lng": -0.173,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-11T05:28:05",
+    "lat": 51.5146,
+    "lng": -0.2394,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-14T14:27:31",
+    "lat": 51.5927,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-15T05:17:18",
+    "lat": 51.5658,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-17T05:31:09",
+    "lat": 51.52,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-18T10:02:28",
+    "lat": 51.537,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-19T14:03:23",
+    "lat": 51.537,
+    "lng": -0.1484,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-20T12:33:54",
+    "lat": 51.5739,
+    "lng": -0.2163,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-21T11:41:13",
+    "lat": 51.5846,
+    "lng": -0.1888,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-22T08:14:35",
+    "lat": 51.5649,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-23T22:09:50",
+    "lat": 51.5954,
+    "lng": -0.2062,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-24T20:17:11",
+    "lat": 51.5236,
+    "lng": -0.1036,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-25T09:53:21",
+    "lat": 51.528,
+    "lng": -0.1108,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-27T10:37:57",
+    "lat": 51.5891,
+    "lng": -0.212,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-28T18:58:36",
+    "lat": 51.5119,
+    "lng": -0.1513,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-30T14:32:16",
+    "lat": 51.5415,
+    "lng": -0.1845,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-03-31T11:57:21",
+    "lat": 51.5289,
+    "lng": -0.1441,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-01T12:13:23",
+    "lat": 51.5658,
+    "lng": -0.2033,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-03T01:04:35",
+    "lat": 51.581,
+    "lng": -0.1253,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-04T06:24:23",
+    "lat": 51.5514,
+    "lng": -0.2163,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-08T02:31:32",
+    "lat": 51.5209,
+    "lng": -0.1484,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-09T17:18:53",
+    "lat": 51.5182,
+    "lng": -0.1874,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-10T00:34:01",
+    "lat": 51.537,
+    "lng": -0.1527,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-11T19:52:50",
+    "lat": 51.5595,
+    "lng": -0.2336,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-12T21:33:33",
+    "lat": 51.5379,
+    "lng": -0.2394,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-14T13:19:13",
+    "lat": 51.5263,
+    "lng": -0.2264,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-15T16:29:05",
+    "lat": 51.5649,
+    "lng": -0.1267,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-17T18:13:14",
+    "lat": 51.581,
+    "lng": -0.2177,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-18T02:46:12",
+    "lat": 51.5307,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-19T08:16:16",
+    "lat": 51.5478,
+    "lng": -0.1773,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-20T16:52:26",
+    "lat": 51.5496,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-22T06:00:30",
+    "lat": 51.5191,
+    "lng": -0.1036,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-23T20:54:13",
+    "lat": 51.555,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-24T17:29:09",
+    "lat": 51.5604,
+    "lng": -0.16,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-25T17:12:32",
+    "lat": 25.0119,
+    "lng": 88.1433,
+    "city": "Ingraj Bazar"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-26T16:47:29",
+    "lat": 24.9867,
+    "lng": 88.1036,
+    "city": "Ingraj Bazar"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-27T23:11:38",
+    "lat": 25.0128,
+    "lng": 88.181,
+    "city": "Ingraj Bazar"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-04-29T17:28:49",
+    "lat": 25.0326,
+    "lng": 88.1532,
+    "city": "Ingraj Bazar"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-01T17:03:16",
+    "lat": 24.976,
+    "lng": 88.0937,
+    "city": "Ingraj Bazar"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-02T19:34:28",
+    "lat": 51.5298,
+    "lng": -0.1686,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-04T17:22:24",
+    "lat": 51.5298,
+    "lng": -0.16,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-07T22:37:53",
+    "lat": 51.5424,
+    "lng": -0.238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-08T23:02:38",
+    "lat": 51.5451,
+    "lng": -0.1773,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-10T22:43:31",
+    "lat": 51.5307,
+    "lng": -0.1715,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-11T07:15:08",
+    "lat": 51.5631,
+    "lng": -0.1339,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-13T09:45:36",
+    "lat": 51.5586,
+    "lng": -0.1224,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-14T11:45:13",
+    "lat": 51.5451,
+    "lng": -0.2149,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-15T21:04:11",
+    "lat": 51.5918,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-16T22:22:02",
+    "lat": 51.5442,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-17T14:25:59",
+    "lat": 51.581,
+    "lng": -0.2004,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-18T14:51:21",
+    "lat": 51.5559,
+    "lng": -0.1426,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-19T16:21:02",
+    "lat": 51.5451,
+    "lng": -0.1758,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-21T22:56:30",
+    "lat": 51.5855,
+    "lng": -0.225,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-22T04:23:59",
+    "lat": 51.5586,
+    "lng": -0.1946,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-24T20:02:26",
+    "lat": 51.5685,
+    "lng": -0.2409,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-25T12:01:44",
+    "lat": 51.5963,
+    "lng": -0.1339,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-26T05:40:55",
+    "lat": 51.5218,
+    "lng": -0.1123,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-27T00:29:22",
+    "lat": 51.5245,
+    "lng": -0.2409,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-28T09:23:07",
+    "lat": 51.5945,
+    "lng": -0.2091,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-29T07:34:04",
+    "lat": 51.5406,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-05-31T09:44:45",
+    "lat": 51.5631,
+    "lng": -0.1513,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-01T08:32:13",
+    "lat": 51.5793,
+    "lng": -0.1657,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-02T14:24:03",
+    "lat": 51.5298,
+    "lng": -0.212,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-03T22:50:47",
+    "lat": 51.5882,
+    "lng": -0.1484,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-04T21:26:12",
+    "lat": 51.5514,
+    "lng": -0.1383,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-06T13:32:55",
+    "lat": 51.5307,
+    "lng": -0.1296,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-07T13:04:24",
+    "lat": 51.5137,
+    "lng": -0.2351,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-08T20:12:16",
+    "lat": 51.5128,
+    "lng": -0.1701,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-12T18:03:49",
+    "lat": 51.5469,
+    "lng": -0.1585,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-14T06:38:19",
+    "lat": 51.5757,
+    "lng": -0.1513,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-16T08:27:31",
+    "lat": 51.5532,
+    "lng": -0.1903,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-17T22:47:40",
+    "lat": 51.5577,
+    "lng": -0.1715,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-18T20:25:26",
+    "lat": 51.5846,
+    "lng": -0.1542,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-19T14:45:20",
+    "lat": 51.5918,
+    "lng": -0.1065,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-21T15:02:23",
+    "lat": 51.581,
+    "lng": -0.2192,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-22T01:23:59",
+    "lat": 51.5622,
+    "lng": -0.1961,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-24T00:01:42",
+    "lat": 51.5227,
+    "lng": -0.1108,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-25T23:21:58",
+    "lat": 51.5397,
+    "lng": -0.2091,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-26T12:55:25",
+    "lat": 51.5927,
+    "lng": -0.1426,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-27T15:20:45",
+    "lat": 51.5936,
+    "lng": -0.1513,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-29T00:51:50",
+    "lat": 51.5289,
+    "lng": -0.2047,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-06-30T16:08:39",
+    "lat": 51.5334,
+    "lng": -0.1542,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-02T09:30:07",
+    "lat": 51.5676,
+    "lng": -0.1296,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-05T09:19:40",
+    "lat": 51.5819,
+    "lng": -0.2409,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-06T22:32:19",
+    "lat": 51.5361,
+    "lng": -0.1181,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-07T16:50:35",
+    "lat": 51.5137,
+    "lng": -0.1238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-08T18:32:53",
+    "lat": 51.5514,
+    "lng": -0.2394,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-09T20:35:28",
+    "lat": 51.5963,
+    "lng": -0.2452,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-10T09:30:41",
+    "lat": 51.5837,
+    "lng": -0.2437,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-11T12:42:40",
+    "lat": 51.5766,
+    "lng": -0.2336,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-12T11:39:57",
+    "lat": 51.5263,
+    "lng": -0.2466,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-13T17:14:53",
+    "lat": 51.5802,
+    "lng": -0.1166,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-14T05:37:33",
+    "lat": 51.5828,
+    "lng": -0.1903,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-15T05:46:58",
+    "lat": 51.5487,
+    "lng": -0.1354,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-16T19:47:33",
+    "lat": 51.52,
+    "lng": -0.2437,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-18T12:02:02",
+    "lat": 51.5487,
+    "lng": -0.1758,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-19T03:01:10",
+    "lat": 51.5361,
+    "lng": -0.1079,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-20T12:21:11",
+    "lat": 51.5703,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-21T10:51:18",
+    "lat": 51.5155,
+    "lng": -0.2221,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-22T16:16:36",
+    "lat": 51.5604,
+    "lng": -0.2076,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-23T07:54:26",
+    "lat": 51.5272,
+    "lng": -0.1816,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-24T12:14:20",
+    "lat": 51.5532,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-25T02:15:03",
+    "lat": 51.5218,
+    "lng": -0.1787,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-26T14:16:34",
+    "lat": 51.59,
+    "lng": -0.1166,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-27T12:32:01",
+    "lat": 51.5972,
+    "lng": -0.238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-07-28T23:14:24",
+    "lat": 51.59,
+    "lng": -0.2192,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-01T04:53:39",
+    "lat": 51.546,
+    "lng": -0.1657,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-02T10:37:06",
+    "lat": 51.5289,
+    "lng": -0.1296,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-03T02:19:40",
+    "lat": 51.5155,
+    "lng": -0.1354,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-06T23:59:04",
+    "lat": 51.5658,
+    "lng": -0.1787,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-11T12:46:01",
+    "lat": 51.5604,
+    "lng": -0.2192,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-12T13:58:52",
+    "lat": 51.546,
+    "lng": -0.2322,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-13T01:10:00",
+    "lat": 51.5146,
+    "lng": -0.1701,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-14T07:22:41",
+    "lat": 51.5846,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-15T14:50:57",
+    "lat": 51.5101,
+    "lng": -0.1888,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-16T11:52:24",
+    "lat": 51.5343,
+    "lng": -0.1051,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-18T08:34:53",
+    "lat": 51.5694,
+    "lng": -0.2004,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-21T00:11:49",
+    "lat": 51.5972,
+    "lng": -0.2264,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-22T19:40:06",
+    "lat": 51.5748,
+    "lng": -0.1152,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-23T05:29:14",
+    "lat": 51.5936,
+    "lng": -0.2192,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-24T15:36:52",
+    "lat": 51.5119,
+    "lng": -0.1946,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-25T16:15:22",
+    "lat": 51.5613,
+    "lng": -0.1643,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-26T07:14:52",
+    "lat": 51.5505,
+    "lng": -0.1108,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-27T17:15:40",
+    "lat": 51.5218,
+    "lng": -0.1079,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-28T04:56:23",
+    "lat": 51.5514,
+    "lng": -0.1845,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-30T11:21:43",
+    "lat": 51.5864,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-08-31T11:36:11",
+    "lat": 51.5442,
+    "lng": -0.2134,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-01T09:20:17",
+    "lat": 51.5361,
+    "lng": -0.1079,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-02T03:26:09",
+    "lat": 51.5703,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-04T01:12:58",
+    "lat": 51.5694,
+    "lng": -0.1903,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-05T17:23:41",
+    "lat": 51.5577,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-06T06:34:08",
+    "lat": 51.5586,
+    "lng": -0.1643,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-07T12:52:56",
+    "lat": 51.5667,
+    "lng": -0.1108,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-08T22:13:35",
+    "lat": 51.5855,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-10T13:34:58",
+    "lat": 51.5748,
+    "lng": -0.1932,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-11T04:43:38",
+    "lat": 51.5263,
+    "lng": -0.2336,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-12T16:05:41",
+    "lat": 51.5272,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-13T14:54:05",
+    "lat": 51.555,
+    "lng": -0.1455,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-15T12:07:47",
+    "lat": 51.5101,
+    "lng": -0.2423,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-16T18:41:36",
+    "lat": 51.5595,
+    "lng": -0.2091,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-17T21:43:46",
+    "lat": 51.5936,
+    "lng": -0.2163,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-19T06:13:32",
+    "lat": 51.5209,
+    "lng": -0.173,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-20T05:06:39",
+    "lat": 51.5703,
+    "lng": -0.1426,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-21T09:56:53",
+    "lat": 51.5101,
+    "lng": -0.1816,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-22T16:46:06",
+    "lat": 51.5667,
+    "lng": -0.2394,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-23T22:09:15",
+    "lat": 51.5245,
+    "lng": -0.1484,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-24T15:39:48",
+    "lat": 51.5164,
+    "lng": -0.1354,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-27T21:42:12",
+    "lat": 51.5289,
+    "lng": -0.2177,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-29T01:59:31",
+    "lat": 51.5334,
+    "lng": -0.2076,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-09-30T07:18:26",
+    "lat": 51.5191,
+    "lng": -0.16,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-01T00:27:24",
+    "lat": 51.5514,
+    "lng": -0.1816,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-02T23:13:05",
+    "lat": 51.5649,
+    "lng": -0.1383,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-03T19:09:23",
+    "lat": 51.5191,
+    "lng": -0.1253,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-04T10:43:55",
+    "lat": 51.5945,
+    "lng": -0.2293,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-05T15:39:50",
+    "lat": 51.537,
+    "lng": -0.1845,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-06T11:48:23",
+    "lat": 51.5676,
+    "lng": -0.1123,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-07T18:10:32",
+    "lat": 51.5658,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-08T13:10:21",
+    "lat": 51.5918,
+    "lng": -0.1932,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-09T01:34:42",
+    "lat": 51.5514,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-10T00:45:19",
+    "lat": 51.5289,
+    "lng": -0.1238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-12T12:58:33",
+    "lat": 51.511,
+    "lng": -0.2192,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-15T12:14:26",
+    "lat": 51.5559,
+    "lng": -0.1715,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-16T19:13:57",
+    "lat": 51.5649,
+    "lng": -0.1094,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-18T19:20:59",
+    "lat": 51.5963,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-20T02:43:33",
+    "lat": 51.5694,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-21T12:18:10",
+    "lat": 51.5909,
+    "lng": -0.1556,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-23T05:37:58",
+    "lat": 51.5595,
+    "lng": -0.1296,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-24T18:14:10",
+    "lat": 51.5766,
+    "lng": -0.1325,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-25T12:31:09",
+    "lat": 51.5155,
+    "lng": -0.1961,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-26T09:26:46",
+    "lat": 51.5676,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-27T20:58:34",
+    "lat": 51.5775,
+    "lng": -0.1368,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-28T20:31:10",
+    "lat": 51.5487,
+    "lng": -0.2322,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-29T19:38:06",
+    "lat": 51.5334,
+    "lng": -0.1975,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-30T22:44:45",
+    "lat": 51.5819,
+    "lng": -0.1744,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-10-31T17:52:27",
+    "lat": 51.5406,
+    "lng": -0.225,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-02T03:56:30",
+    "lat": 51.5263,
+    "lng": -0.1571,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-04T18:58:54",
+    "lat": 51.5128,
+    "lng": -0.1585,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-05T23:02:38",
+    "lat": 51.5748,
+    "lng": -0.2076,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-08T21:18:03",
+    "lat": 51.5909,
+    "lng": -0.2091,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-09T00:55:48",
+    "lat": 51.5748,
+    "lng": -0.1961,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-10T13:45:13",
+    "lat": 51.5658,
+    "lng": -0.2351,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-12T10:45:31",
+    "lat": 51.5209,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-14T01:50:24",
+    "lat": 51.5173,
+    "lng": -0.1744,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-17T16:47:34",
+    "lat": 51.5137,
+    "lng": -0.2062,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-18T19:36:12",
+    "lat": 51.5604,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-19T03:13:36",
+    "lat": 51.5514,
+    "lng": -0.225,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-20T01:29:50",
+    "lat": 51.5209,
+    "lng": -0.1932,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-21T05:05:45",
+    "lat": 51.5694,
+    "lng": -0.1571,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-22T14:22:19",
+    "lat": 51.5361,
+    "lng": -0.2452,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-23T14:12:27",
+    "lat": 51.5837,
+    "lng": -0.1932,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-24T11:14:29",
+    "lat": 51.5819,
+    "lng": -0.1701,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-25T05:28:21",
+    "lat": 51.5613,
+    "lng": -0.1036,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-26T14:29:07",
+    "lat": 51.5864,
+    "lng": -0.2466,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-27T07:38:21",
+    "lat": 51.564,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-28T03:02:11",
+    "lat": 51.5433,
+    "lng": -0.1845,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-29T23:22:01",
+    "lat": 51.5676,
+    "lng": -0.2221,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-11-30T05:26:33",
+    "lat": 51.5694,
+    "lng": -0.1498,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-01T12:05:54",
+    "lat": 51.5128,
+    "lng": -0.1253,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-02T01:35:39",
+    "lat": 51.5757,
+    "lng": -0.1831,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-03T11:33:42",
+    "lat": 51.5496,
+    "lng": -0.2279,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-04T20:08:41",
+    "lat": 51.5775,
+    "lng": -0.2466,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-05T21:25:08",
+    "lat": 51.5775,
+    "lng": -0.1209,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-06T13:24:41",
+    "lat": 51.5334,
+    "lng": -0.2076,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-07T17:41:07",
+    "lat": 51.5119,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-09T13:20:13",
+    "lat": 51.5541,
+    "lng": -0.1051,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-10T02:14:54",
+    "lat": 51.5595,
+    "lng": -0.1238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-11T12:10:13",
+    "lat": 51.5703,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-12T06:48:05",
+    "lat": 51.581,
+    "lng": -0.1701,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-13T22:17:17",
+    "lat": 51.5604,
+    "lng": -0.1556,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-14T04:21:38",
+    "lat": 51.5155,
+    "lng": -0.1672,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-17T02:12:10",
+    "lat": 51.5694,
+    "lng": -0.1657,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-18T09:48:20",
+    "lat": 51.5388,
+    "lng": -0.186,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-19T07:57:58",
+    "lat": 51.555,
+    "lng": -0.1441,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-21T21:06:34",
+    "lat": 51.5559,
+    "lng": -0.2177,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-22T04:53:05",
+    "lat": 51.5164,
+    "lng": -0.1152,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-23T05:16:39",
+    "lat": 51.5289,
+    "lng": -0.238,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-24T02:43:26",
+    "lat": 51.5936,
+    "lng": -0.1311,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-26T12:38:29",
+    "lat": 51.5837,
+    "lng": -0.1412,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-27T18:55:38",
+    "lat": 51.5289,
+    "lng": -0.1946,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-28T14:58:23",
+    "lat": 51.5182,
+    "lng": -0.1888,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-29T15:58:08",
+    "lat": 51.5909,
+    "lng": -0.1802,
+    "city": "Hampstead"
+  },
+  {
+    "biotag": "BRCH-TRCY-802-HAM-1",
+    "timestamp": "2087-12-30T01:28:09",
+    "lat": 51.5721,
+    "lng": -0.2105,
+    "city": "Hampstead"
+  }
+]

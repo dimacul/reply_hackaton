@@ -1,0 +1,44 @@
+[
+  {
+    "first_name": "Alain",
+    "last_name": "Regnier",
+    "birth_year": 2047,
+    "salary": 34100,
+    "job": "Office Clerk",
+    "iban": "FR85H4824371990132980420818",
+    "residence": {
+      "city": "Audincourt",
+      "lat": "47.4836",
+      "lng": "6.8403"
+    },
+    "description": "Alain Regnier a 40 ans et travaille comme employé de bureau à Audincourt; il gagne autour de 34 100 € par an et mène une vie de bureau rythmée par dossiers, plannings et petites habitudes quotidiennes, bien ancrée dans la ville. Il ne voyage qu'une fois par an, mais ces escapades peuvent l'emmener aussi bien dans un village d'à peine 1 000 habitants que dans une mégapole de plusieurs dizaines de millions d'habitants, parfois à des distances pouvant atteindre 15 000 km. Plutôt stable et peu enclin aux changements radicaux, il reste connecté au monde numérique mais a tendance à faire preuve de confiance vis-à-vis des messages qu'on lui envoie, ce qui l'expose parfois aux pièges des courriels douteux; ses collègues le taquinent et lui donnent des conseils, et cela suffit généralement à le ramener à plus de prudence."
+  },
+  {
+    "first_name": "Karl-Hermann",
+    "last_name": "Girschner",
+    "birth_year": 2055,
+    "salary": 33200,
+    "job": "Freelance Designer",
+    "iban": "DE41E6333599170389191000654",
+    "residence": {
+      "city": "Dietzenbach",
+      "lat": "50.0167",
+      "lng": "8.7833"
+    },
+    "description": "Karl‑Hermann Girschner, geboren 2055, ist ein freiberuflicher Designer aus Dietzenbach; mit einem Jahreseinkommen von rund 33.200 Euro arbeitet er flexibel für wechselnde Auftraggeber, oft aus Cafés oder Coworking-Spaces am Rand von Frankfurt, und reist etwa fünfmal im Jahr – von kurzen Trips in Kleinstädte bis zu Fernflügen von bis zu 15.000 km zu Zielen mit etwa 1.000 bis zu 45 Millionen Einwohnern – was ihm Abwechslung und neue Impulse für seine Entwürfe bringt; online ist er nur mäßig vorsichtig: seine Neigung, auf Phishing hereinzufallen, liegt statistisch bei etwa 47 %."
+  },
+  {
+    "first_name": "Tracy",
+    "last_name": "Birch",
+    "birth_year": 2050,
+    "salary": 12700,
+    "job": "Ride-share Driver",
+    "iban": "GB55A1899498623707047636913",
+    "residence": {
+      "city": "Hampstead",
+      "lat": "51.5541",
+      "lng": "-0.1744"
+    },
+    "description": "Tracy Birch, born in 2050, is a 37-year-old ride-share driver based in Hampstead who earns about £12,700 a year ferrying neighbours, tourists and late-shift workers through the leafy streets and into central London; most of her days are routine short hops, but she takes a single longer trip each year that can land her anywhere from a small town to a megacity, she trusts a few familiar apps to keep the work steady and sensible yet is pragmatically susceptible to the odd online lure—about as likely to click a suspicious link as to ignore it—so she navigates her life with the quiet caution of someone making every fare and every pound count."
+  }
+]
